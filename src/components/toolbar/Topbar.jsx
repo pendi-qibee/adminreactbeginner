@@ -23,6 +23,7 @@ export default function Topbar() {
                         <Language />
                         <span className="topIconBadge">3</span>
                     </div>
+                    <img src="https://images.pexels.com/photos/9811069/pexels-photo-9811069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" className="topAvatar"/>
                 </div>
             </div>
         </div>
