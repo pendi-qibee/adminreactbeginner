@@ -19,8 +19,15 @@
     cursor: pointer;
 }
 
+.topRight{
+    display: flex;
+    align-items: center;
+}
 .topbarIconContainer{
     position: relative;
+    cursor: pointer;
+    margin-right: 10px;
+    color: #555;
 }
 
 .topIconBadge{
