@@ -11,8 +11,9 @@ export default function Topbar() {
                     <span className="logo">React Admin</span>
                 </div>
                 <div className="topRight">
-                    <div className="topbarIcons">
+                    <div className="topbarIconContainer">
                        <NotificationsNone/>
+                       <span className="topIconBadge">3</span>
                     </div>
                 </div>
             </div>
